@@ -1,0 +1,8 @@
+mongo:
+    dbName: "test"
+    uri:  "mongodb://localhost:27017"
+
+spring:
+    mvc.favicon.enabled: false
+    main:
+        banner-mode: "off"
